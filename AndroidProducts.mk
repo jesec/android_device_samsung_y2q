@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_x1q.mk
+    $(LOCAL_DIR)/lineage_y2q.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_x1q-eng \
-    lineage_x1q-userdebug \
-    lineage_x1q-user
+    lineage_y2q-eng \
+    lineage_y2q-userdebug \
+    lineage_y2q-user
